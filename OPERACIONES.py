@@ -16,9 +16,11 @@ print(f"la division de {firts_numb} / {second_numb} = {firts_numb/second_numb}")
 print(f"la multi de {firts_numb} * {second_numb} = {firts_numb*second_numb}")
 # division exacta
 print(f"la diviexac de {firts_numb} // {second_numb} = {firts_numb//second_numb}")
-## incremento (++)
+## incremento (++, +=) OJO: esta es una avreviatura de una expresion u operacion aritmetica 
+# no es un operador de incremente (numero=numero+1 , numero+= 1)
 print(f"el incremento de  {firts_numb} es {++firts_numb} ")
-## decremento (--)
+## decremento (--,-=)OJO: esta es una avreviatura de una expresion u operacion 
+# aritmetica no es un operador de incremente (numero=numero-1 , numero-= 1)
 print(f"el decremento de  {firts_numb} es {--firts_numb} ")
 ## potenciacion
 print(f"la potencia de {firts_numb} ** {second_numb} = {firts_numb**second_numb}")
