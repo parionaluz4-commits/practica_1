@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 ## F-strings 
 # formato de string esto sirve para formatear string con variables de python y para sus se requiere de un f antes de escribir un string si se desea incluir codigo python en el string, si se desea incluir codigo python en el string se de encerrar en llaves
 nombre:str = "gianfranco"
